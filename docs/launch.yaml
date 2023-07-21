@@ -1,12 +1,22 @@
 news:
-  title: "sample text"
-  description: "sample text"
-  github: "github link"
-  profile_img: "url"
-  level: "level"
-  followers: "count"
-
-blogs:
+  news_id: 1
+  title: First testing NEWS
+  description: "Tristique volutpat pulvinar vel massa, pellentesque egestas. Eu viverra massa quam dignissim aenean malesuada suscipit. Nunc, volutpat pulvinar vel mass."
+  publish_date: '2023-07-20 10:30:45.123456'
+  author_id:
+    name: ashique
+    email: admin@gmail.com
+    photo: photo url
+    bio: ML/LLM/DEEPLEARNING Engineer
+    github: ashiquemukkiil
+    website: www.1littlecoder.com
+    created_at: '2023-07-20 10:30:45.123456'
+    update_at: '2023-07-20 10:30:45.123456'
+  category: upcomming
+  status: publish
+  created_at: '2023-07-20 10:30:45.123456'
+  updated_at: '2023-07-20 10:30:45.123456'
+article:
   - title: "sample text"
     description: "sample text"
     published_date: "date"
