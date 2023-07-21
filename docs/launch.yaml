@@ -17,12 +17,67 @@ news:
   created_at: '2023-07-20 10:30:45.123456'
   updated_at: '2023-07-20 10:30:45.123456'
 article:
-  - title: "sample text"
-    description: "sample text"
-    published_date: "date"
-  - title: "sample text"
-    description: "sample text"
-    published_date: "date"
-  - title: "sample text"
-    description: "sample text"
-    published_date: "date"
+  - title: JavaScript data types and data structures
+    description: Programming languages all have built-in data structures, but these often differ from one language to another. This article attempts to list the built-
+    content: null
+    author_id:
+      name: ashique
+      email: admin@gmail.com
+      photo: photo url
+      bio: ML/LLM/DEEPLEARNING Engineer
+      github: ashiquemukkiil
+      website: www.1littlecoder.com
+      created_at: '2023-07-20 10:30:45.123456'
+      update_at: '2023-07-20 10:30:45.123456'
+    views: 3
+    category: LLM
+    is_kid: false
+    series_id: null
+  - title: JavaScript data types and data structures
+    description: Programming languages all have built-in data structures, but these often differ from one language to another. This article attempts to list the built-
+    content: null
+    author_id:
+      name: ashique
+      email: admin@gmail.com
+      photo: photo url
+      bio: ML/LLM/DEEPLEARNING Engineer
+      github: ashiquemukkiil
+      website: www.1littlecoder.com
+      created_at: '2023-07-20 10:30:45.123456'
+      update_at: '2023-07-20 10:30:45.123456'
+    views: 3
+    category: LLM
+    is_kid: false
+    series_id: null
+  - title: JavaScript data types and data structures
+    description: Programming languages all have built-in data structures, but these often differ from one language to another. This article attempts to list the built-
+    content: null
+    author_id:
+      name: ashique
+      email: admin@gmail.com
+      photo: photo url
+      bio: ML/LLM/DEEPLEARNING Engineer
+      github: ashiquemukkiil
+      website: www.1littlecoder.com
+      created_at: '2023-07-20 10:30:45.123456'
+      update_at: '2023-07-20 10:30:45.123456'
+    views: 3
+    category: LLM
+    is_kid: false
+    series_id: null
+  - title: JavaScript data types and data structures
+    description: Programming languages all have built-in data structures, but these often differ from one language to another. This article attempts to list the built-
+    content: null
+    author_id:
+      name: ashique
+      email: admin@gmail.com
+      photo: photo url
+      bio: ML/LLM/DEEPLEARNING Engineer
+      github: ashiquemukkiil
+      website: www.1littlecoder.com
+      created_at: '2023-07-20 10:30:45.123456'
+      update_at: '2023-07-20 10:30:45.123456'
+    views: 3
+    category: LLM
+    is_kid: false
+    series_id: null
