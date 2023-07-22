@@ -4,6 +4,7 @@ news:
   description: "Tristique volutpat pulvinar vel massa, pellentesque egestas. Eu viverra massa quam dignissim aenean malesuada suscipit. Nunc, volutpat pulvinar vel mass."
   publish_date: '2023-07-20 10:30:45.123456'
   author_id:
+    author_id: 1
     name: ashique
     email: admin@gmail.com
     photo: photo url
@@ -17,7 +18,8 @@ news:
   created_at: '2023-07-20 10:30:45.123456'
   updated_at: '2023-07-20 10:30:45.123456'
 article:
-  - title: JavaScript data types and data structures
+  - article_id: 1
+    title: JavaScript data types and data structures
     description: Programming languages all have built-in data structures, but these often differ from one language to another. This article attempts to list the built-
     content: null
     author_id:
@@ -33,7 +35,8 @@ article:
     category: LLM
     is_kid: false
     series_id: null
-  - title: JavaScript data types and data structures
+  - article_id: 2
+    title: JavaScript data types and data structures
     description: Programming languages all have built-in data structures, but these often differ from one language to another. This article attempts to list the built-
     content: null
     author_id:
@@ -49,7 +52,8 @@ article:
     category: LLM
     is_kid: false
     series_id: null
-  - title: JavaScript data types and data structures
+  - article_id: 3
+    title: JavaScript data types and data structures
     description: Programming languages all have built-in data structures, but these often differ from one language to another. This article attempts to list the built-
     content: null
     author_id:
@@ -65,7 +69,8 @@ article:
     category: LLM
     is_kid: false
     series_id: null
-  - title: JavaScript data types and data structures
+  - article_id: 4
+    title: JavaScript data types and data structures
     description: Programming languages all have built-in data structures, but these often differ from one language to another. This article attempts to list the built-
     content: null
     author_id:
