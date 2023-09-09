@@ -28,7 +28,7 @@ Definition
 import hello_world
 print("just checking)
 ```
->``` python3
+``` python3
 def fizz_buzz(value):
     if(value % 3 == 0 and value % 5 == 0):
         return "FizzBuzz"
