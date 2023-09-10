@@ -37,9 +37,8 @@ article:
     is_kid: false
     series_id: null
   - article_id: 2
-    title: JavaScript data types and data structures
-    description: Programming languages all have built-in data structures, but these often differ from one language to another. This article attempts to list the built-
-    content: null
+    title: "Precision Pulse FP16 vs FP32"
+    description: "When its come to Large language models(LLMs) like GPT4,LLaMA,..), choice of data type can significantly impact on memory usage and training speed,Utilise standard FP32(32 bit floating point) on LLM model like 7 Billion parameter LLaMA will be memory-intensive consume as much as 28 gigabytes of RAM. Furthermore the gradient and optimiser will take almost 3 time of model size memory which will posing challenges for hardware and out of memory errorIn low precision data type, specifically Float16 and bFloat16 ,these are alternative data type which need half of memory(16 bits) and offer memory bottleneck associate which FP32,However right selection of data type will be a trade-off between memory usage and model training effectiveness"
     author:
       author_id: 1
       name: ashique
@@ -50,8 +49,8 @@ article:
       website: www.1littlecoder.com
       created_at: '2023-07-20 10:30:45.123456'
       update_at: '2023-07-20 10:30:45.123456'
-    views: 3
-    category: LLM
+    views: 0
+    category: "LLM"
     is_kid: false
     series_id: null
   - article_id: 3
