@@ -67,5 +67,6 @@ More Markdown **content**.
 :::
 
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![Alt text](https://github.com/ashiquemukkil/1LittleCoderDB/blob/d3ee29e8dbf5a17e1efd951780a7cb9bd3e727f2/imges/precision-pulse-fp16-vs-fp32/fp32.png)
 
 
