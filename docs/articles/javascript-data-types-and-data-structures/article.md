@@ -49,3 +49,19 @@ def fizz_buzz(value):
 
     - list item a
     - list item b
+
+
+::: tabs [data-tabs="1:2"]
+::: tab Tab 1
+Markdown **content**.
+
+Multiple paragraphs.
+:::
+
+::: tab Tab 2
+More Markdown **content**.
+
+- list item a
+- list item b
+:::
+:::
