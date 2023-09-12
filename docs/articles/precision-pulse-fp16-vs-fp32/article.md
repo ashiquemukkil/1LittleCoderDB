@@ -8,7 +8,7 @@ In low precision data type, specifically Float16 and bFloat16 ,these are alterna
 
 ## FP32
 
-| ![fp32](https://raw.githubusercontent.com/ashiquemukkil/1LittleCoderDB/bb1f424ddb17565e22d30e27f1759ff07fedf11a/docs/imges/precision-pulse-fp16-vs-fp32/fp32.png){:height="70%" width="70%"} |
+| ![fp32](https://raw.githubusercontent.com/ashiquemukkil/1LittleCoderDB/bb1f424ddb17565e22d30e27f1759ff07fedf11a/docs/imges/precision-pulse-fp16-vs-fp32/fp32.png){:height="70%" width="90%"} |
 |:--:| 
 | *FP32* |
 
@@ -23,7 +23,7 @@ LLaMA 7B model weight FP32 representation take 28 gigabytes of memory _7B*4bytes
 
 ## FP16 and bFP16
 
-| ![fp16](https://raw.githubusercontent.com/ashiquemukkil/1LittleCoderDB/bb1f424ddb17565e22d30e27f1759ff07fedf11a/docs/imges/precision-pulse-fp16-vs-fp32/fp16.png){:height="70%" width="70%"} |
+| ![fp16](https://raw.githubusercontent.com/ashiquemukkil/1LittleCoderDB/bb1f424ddb17565e22d30e27f1759ff07fedf11a/docs/imges/precision-pulse-fp16-vs-fp32/fp16.png){:height="70%" width="90%"} |
 |:--:| 
 | *FP16* |
 
@@ -32,7 +32,7 @@ FP16 is a 16 bits representation also know as half-precision floating point form
 * 15<sup>nth</sup>bit represent sign (0 for positive and 1 for negative)
 * 10 to 14 bit for exponent and 0 to 9 for fraction
 
-| ![bfp16](https://raw.githubusercontent.com/ashiquemukkil/1LittleCoderDB/bb1f424ddb17565e22d30e27f1759ff07fedf11a/docs/imges/precision-pulse-fp16-vs-fp32/bfp16.png){:height="70%" width="70%"} |
+| ![bfp16](https://raw.githubusercontent.com/ashiquemukkil/1LittleCoderDB/bb1f424ddb17565e22d30e27f1759ff07fedf11a/docs/imges/precision-pulse-fp16-vs-fp32/bfp16.png){:height="70%" width="90%"} |
 |:--:| 
 | *BFP16* |
 
