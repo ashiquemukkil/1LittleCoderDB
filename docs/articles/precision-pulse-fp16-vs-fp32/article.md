@@ -59,9 +59,9 @@ Method of using both FP16 and FP32 in a model during training to make run faster
 
 Using PyTorch, we can implement mixed-precision training with help of  ```torch.cuda.amp(Automatic Mixed Precision) ``` 
 
->
-**Import all dependencies and define model**
 
+**Import all dependencies and define model**
+>
 ```python
 import torch
 import torch.nn as nn
@@ -84,20 +84,22 @@ class SimpleNN(nn.Module):
 ```
 
 **Initialize the Model and Optimizer:**
-
+>
 ```python
 model = SimpleNN().cuda()
 criterion = nn.CrossEntropyLoss()
 optimizer = optim.SGD(model.parameters(), lr=0.01)
 ```
+>
 
 **Mixed-Precision Setup:**
-
+>
 ```python
 scaler = GradScaler()
 ```
-**training loop**
 
+**training loop**
+>
 ```python
 for epoch in range(num_epochs):
     for batch_idx, (inputs, targets) in enumerate(train_loader):
@@ -120,5 +122,4 @@ for epoch in range(num_epochs):
 
 ```
 >
-
 
